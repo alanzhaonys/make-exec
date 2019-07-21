@@ -1,0 +1,11 @@
+{
+  "name": "make-exec",
+  "version": "1.0.0",
+  "description": "Make a file executable by changing it's permission to 0777. Use it in CLI mode.",
+  "main": "index.js",
+  "author": "Alan Zhao",
+  "license": "MIT",
+  "bin": {
+    "make-exec": "index.js"
+  }
+}
